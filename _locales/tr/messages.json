@@ -260,15 +260,15 @@
         "description": "[options] Tooltip for audio volume for unmuted videos option"
     },
     "optPlayAudio": {
-        "message": "Play audio sources such as MP3",
+        "message": "MP3 gibi ses kaynaklarını oynatın",
         "description": "[options] Play audio option"
     },
     "optPlayAudioTooltip": {
-        "message": "Supported formats: flac m4a mp3 oga ogg opus wav",
+        "message": "Desteklenen dosya türleri: flac m4a mp3 oga ogg opus wav",
         "description": "[options] Tooltip for play audio option"
     },
     "optAudioVolume": {
-        "message": "Audio volume:",
+        "message": "Ses seviyesi:",
         "description": "[options] Audio volume option"
     },
     "optAudioVolumeUnitName": {
@@ -276,7 +276,7 @@
         "description": "[options] Unit name (percentage) for audio volume option"
     },
     "optAudioVolumeTooltip": {
-        "message": "Set the volume to this percentage (0-100)",
+        "message": "Sesi bu yüzde aralığında ayarlayın (0-100)",
         "description": "[options] Tooltip for audio volume option"
     },
     "optEnableAmbilight": {
@@ -460,11 +460,11 @@
         "description": "[options] Enable albums support option"
     },
     "optEnableNoFocusMsg": {
-        "message": "Enable Action Keys focus overlay message",
+        "message": "Eylem Tuşları odak yerleşimi mesajını etkinleştir",
         "description": "[options] Enable Action Keys focus overlay message option"
     },
     "optEnableNoFocusMsgTooltip": {
-        "message": "Sometimes Action Keys seem to be broken, this usually happens when page has lost focus. If option is checked, a warning message will be displayed (only once).",
+        "message": "Bazen Eylem Tuşları bozuk görünebilir, bu genellikle sayfa odağı kaybettiğinde olur. Seçenek işaretlenirse, bir uyarı mesajı görüntülenecektir (sadece bir kez).",
         "description": "[options] Tooltip for enable Action Keys focus overlay message option"
     },
     "optPicturesOpacity": {
@@ -552,15 +552,15 @@
         "description": "[options] Tooltip for enable debug option"
     },
     "optEnableDebug": {
-        "message": "Enable debug logging",
+        "message": "Hata ayıklama günlüğünü etkinleştir",
         "description": "[options] Enable debug option"
     },
     "optSectionSupportedFormats": {
-        "message": "Supported formats",
+        "message": "Desteklenen dosya türleri",
         "description": "[options] Page section for supported formats"
     },
     "optSupportedImageFormats": {
-        "message": "Images :",
+        "message": "Resimler :",
         "description": "[options] Page section for supported image formats"
     },
     "optSupportedVideoFormats": {
@@ -568,7 +568,7 @@
         "description": "[options] Page section for supported video formats"
     },
     "optSupportedAudioFormats": {
-        "message": "Audio :",
+        "message": "Ses :",
         "description": "[options] Page section for supported audio formats"
     },
     "optPageFAQ": {
@@ -636,27 +636,27 @@
         "description": "[options] FAQ Answer 4 part 2"
     },
     "optFAQ_Q5": {
-        "message": "Action keys do not work!",
+        "message": "Eylem tuşları çalışmıyor.",
         "description": "[options] FAQ Question 5"
     },
     "optFAQ_A5_1": {
-        "message": "Sometimes action keys seem to be broken, this usually happens when page has lost focus.",
+        "message": "Bazen eylem tuşları bozuk gibi görünür, bu genellikle sayfa odağı kaybettiğinde olur.",
         "description": "[options] FAQ Answer 5 part 1"
     },
     "optFAQ_A5_2": {
-        "message": "Just click anywhere on page to regain focus.",
+        "message": "Odaklanmak için sayfada herhangi bir yeri tıklamanız yeterli.",
         "description": "[options] FAQ Answer 5 part 2"
     },
     "optFAQ_A5_3": {
-        "message": "In Options -> Advanced, you can activate \"Enable Action Keys focus overlay message\", so you'll get a warning message when focus is lost.",
+        "message": "Ayarlar -> Gelişmiş, \"Eylem Tuşları odak yerleşimi mesajını etkinleştir\"i etkinleştirebilirsiniz, böylece odak kaybolduğunda bir uyarı mesajı alırsınız.",
         "description": "[options] FAQ Answer 5 part 3"
     },
     "optFAQ_Q6": {
-        "message": "Some videos do not play when opened from sites other than original ones.",
+        "message": "Bazı videolar, orjinal site dışında açılmaz.",
         "description": "[options] FAQ Question 6"
     },
     "optFAQ_A6_1": {
-        "message": "e.g: Dailymotion videos play in dailymotion.com, but not in Google search results.",
+        "message": "Örneğin: Dailymotion videolarıdailymotion.com'da oynatılır, ancak Google arama sonuçlarında oynatılmaz.",
         "description": "[options] FAQ Answer 6 part 1"
     },
     "optFAQ_A6_2": {
@@ -664,7 +664,7 @@
         "description": "[options] FAQ Answer 6 part 2"
     },
     "optFAQ_A6_3": {
-        "message": "In Options -> Advanced, activate \"Allow rewrite of headers for HTTP(S) request or response\"",
+        "message": "Seçenekler -> Gelişmiş, \"HTTP(S) isteği veya yanıtı için başlıkların yeniden yazılmasına izin ver\"i etkinleştirin",
         "description": "[options] FAQ Answer 6 part 3"
     },
     "optPixelsUnitName": {
@@ -672,19 +672,19 @@
         "description": "[options] Unit name (pixels)"
     },
     "optActionKeyTitle": {
-        "message": "Activate HoverZoom+",
+        "message": "HoverZoom+ Etkinleştir",
         "description": "[options] Action key title"
     },
     "optActionKeyDescription": {
-        "message": "If a key is set, HoverZoom4+ will be active only when this key is held down.",
+        "message": "Bir tuş ayarlanırsa, HoverZoom+ yalnızca bu tuş basılı tutulduğunda etkin olacaktır.",
         "description": "[options] Action key description"
     },
     "optToggleKeyTitle": {
-        "message": "Toggle HoverZoom+",
+        "message": "HoverZoom+ Aç/Kapa",
         "description": "[options] Action key title"
     },
     "optToggleKeyDescription": {
-        "message": "Enable/disable HoverZoom+",
+        "message": "HoverZoom+ etkinleştir/devre dışı bırak+",
         "description": "[options] Action key description"
     },
     "optCloseKeyTitle": {
@@ -800,11 +800,11 @@
         "description": "[options] Copyright and version number in page footer"
     },
     "msgClickPageToPlayVideo": {
-        "message": "click anywhere on the page then hover again",
+        "message": "sayfada herhangi bir yere tıklayın ve ardından tekrar fareyle üzerine gelin",
         "description": "User must interact with the document first to play video: https://goo.gl/xX8pDD"
     },
     "msgClickPageToActivateActionKeys": {
-        "message": "click anywhere on the page to activate Action Keys",
+        "message": "Eylem Tuşlarını etkinleştirmek için sayfada herhangi bir yeri tıklayın",
         "description": "Action keys are active only if page is focused"
     }
 }
